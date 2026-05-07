@@ -42,7 +42,7 @@ class GameScene extends Phaser.Scene {
     preload() {
         this.load.setPath("./assets/");
 
-        this.load.image("player", "ships/ship_0000.png");
+        this.load.image("player", "ship_0000.png");
         this.load.image("elephant", "elephant.png");
         this.load.image("snake", "animals/snake.png");
         this.load.image("monkey", "animals/monkey.png");
