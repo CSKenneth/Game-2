@@ -1,0 +1,37 @@
+{
+    "activeFile": "lawn.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "lawn.json": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 90.5,
+                "y": 68.75
+            }
+        },
+        "lawn.json#lawn-area": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/kenne/OneDrive/Documents/GitHub/CMPM120/Game 2/assets",
+    "map.height": 10,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+        "lawn.json"
+    ],
+    "project": "lawn.tiled-project",
+    "recentFiles": [
+        "lawn.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

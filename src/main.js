@@ -19,9 +19,9 @@ let config = {
     render: {
         pixelArt: true  // prevent pixel art from getting blurred when scaled
     },
-    width: 800,
+    width: 768,
     height: 600,
-    scene: [ArrayBoom]
+    scene: [GameScene]
 }
 
 
