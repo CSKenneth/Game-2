@@ -1,7 +1,6 @@
-**Audio Practice**
+**Game 2**
 
-A small gallery shooter with audio removed.
-Designed for practice adding audio into a scene in Phaser 4.
+Game 2
 
 Uses [Kenny Assets](https://kenney.nl/assets/) for sprites, bitmaps fonts, and audio clips, with gratitude.
 Uses Music from #Uppbeat (free for Creators!):
